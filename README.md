@@ -55,7 +55,7 @@ $ yarn dev
 $ yarn test
 
 # Start server
-acesse http://localhost:3333
+access http://localhost:3333
 
 # Docs with Swagger
 access http://localhost:3333/api-docs/
