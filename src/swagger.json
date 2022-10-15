@@ -1,3 +1,16 @@
 {
-  
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Atlas Documentation",
+    "description": "This is as Atlas API",
+    "version": "1.0.0",
+    "contact":{
+      "email": "thi.it_solutions@yahoo.com"
+    }
+  },
+  "paths": {
+    "/users": {
+      
+    }
+  }
 }
